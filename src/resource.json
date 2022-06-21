@@ -1,5 +1,16 @@
 [
   {
+    "name": "Azuro",
+    "name_en": "Azuro",
+    "desc": "The base layer for decentralized betting. Build your own betting app powered by Azuro’s feed of priced, liquid markets",
+    "desc_en": "The base layer for decentralized betting. Build your own betting app powered by Azuro’s feed of priced, liquid markets",
+    "url": "https://azuro.org/",
+    "tag": "Prediction Markets",
+    "tag_en": "Prediction Markets",
+    "logo": "/images/Azuro.PNG",
+    "image": ""
+  },
+  {
     "name": "Daohaus",
     "name_en": "Daohaus",
     "desc": "神奇的互联网社区的无码 DAO 平台",
